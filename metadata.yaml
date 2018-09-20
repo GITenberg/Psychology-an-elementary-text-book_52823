@@ -1,0 +1,36 @@
+_repo: Psychology-an-elementary-text-book_52823
+_version: 0.0.1
+alternative_title: Abriss der Psychologie. English
+contributor:
+  translator:
+    agent_name: Meyer, Max F. (Max Friedrich)
+    aliases:
+    - Meyer, Max Friedrich
+    - Meyer, Max Frederick
+    birthdate: 1873
+    deathdate: 1967
+    gutenberg_agent_id: '47059'
+    url: http://www.gutenberg.org/2009/agents/47059
+creator:
+  author:
+    agent_name: Ebbinghaus, Hermann
+    birthdate: 1850
+    deathdate: 1909
+    gutenberg_agent_id: '47058'
+    url: http://www.gutenberg.org/2009/agents/47058
+description: ''
+gutenberg_issued: '2016-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52823'
+  lccn: 08033424
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Psychology'
+- GITenberg
+title: 'Psychology: an elementary text-book'
+url: http://www.gutenberg.org/ebooks/52823
